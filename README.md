@@ -23,40 +23,40 @@ EcommDash is a comprehensive e-commerce platform built with PHP and MySQL. It in
 
 ## Features
 ### Admin Panel
-1. User Management:
+#### 1. User Management:
 
 - View all registered users.
 - Update or delete user profiles as needed.
 
-2. Product Management:
+#### 2. Product Management:
 
 - Add new products to the store, including descriptions, images, and prices.
 - Edit or remove existing products.
 - Inventory tracking to ensure stock availability.
 
-3. Order Management:
+#### 3. Order Management:
 
 - View all orders placed by customers.
 - Manage order statuses (e.g., pending, processing, completed).
 
 ### User Interface
 
-1. Product Browsing:
+#### 1. Product Browsing:
 
 - Easy navigation to explore various categories and products.
 - View detailed product descriptions and images.
 
-2. Shopping Cart:
+#### 2. Shopping Cart:
 
 - Add items to the cart.
 - Modify quantities or remove items before checkout.
 
-3. User Registration/Login:
+#### 3. User Registration/Login:
 
 - Secure user authentication system.
 - Access to personalized order history.
 
-4. Checkout Process:
+#### 4. Checkout Process:
 
 - Seamless order placement.
 - Email notifications for order confirmations (if configured).
